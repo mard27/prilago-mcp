@@ -1,0 +1,26 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "com.prilago/lp-intelligence",
+  "title": "Prilago Institutional LP & Early-Backers Intelligence",
+  "description": "Primary-filing institutional LP commitments (61,470 records across 5,287 direct LPs) & Fund I-IV Matchmaker.",
+  "version": "3.3.0",
+  "websiteUrl": "https://prilago.com/mcp",
+  "repository": {
+    "url": "https://github.com/mard27/prilago-mcp",
+    "source": "github"
+  },
+  "remotes": [
+    {
+      "type": "streamable-http",
+      "url": "https://prilago.com/mcp",
+      "headers": [
+        {
+          "name": "Authorization",
+          "description": "Bearer Prilago MCP API key (manage at https://prilago.com/mcp)",
+          "isRequired": true,
+          "isSecret": true
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "mcpServers": {
+    "prilago-lp-intelligence": {
+      "url": "https://prilago.com/mcp",
+      "headers": {
+        "Authorization": "Bearer YOUR_PRILAGO_MCP_API_KEY"
+      }
+    }
+  }
+}

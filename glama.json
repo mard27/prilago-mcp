@@ -1,0 +1,23 @@
+{
+  "$schema": "https://glama.ai/mcp/schemas/connector.json",
+  "name": "Prilago",
+  "id": "com.prilago/lp-intelligence",
+  "provider": {
+    "organization": "Prilago LLC",
+    "url": "https://prilago.com"
+  },
+  "url": "https://prilago.com/mcp",
+  "documentationUrl": "https://prilago.com/mcp",
+  "repository": "https://github.com/mard27/prilago-mcp",
+  "llmsTxtUrl": "https://prilago.com/llms.txt",
+  "mcpServerManifestUrl": "https://prilago.com/.well-known/mcp/server.json",
+  "description": "Prilago (https://prilago.com) indexes 5,287 direct institutional LPs and 61,470 primary public filing disclosures for Fund I-IV private-markets managers.",
+  "authentication": {
+    "type": "bearer",
+    "instructionsUrl": "https://prilago.com/mcp"
+  },
+  "capabilities": {
+    "streaming": false,
+    "pushNotifications": false
+  }
+}
