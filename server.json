@@ -2,7 +2,7 @@
   "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
   "name": "com.prilago/lp-intelligence",
   "title": "Prilago Institutional LP & Early-Backers Intelligence",
-  "description": "Primary-filing institutional LP commitments (61,470 records across 5,287 direct LPs) & Fund I-IV Matchmaker.",
+  "description": "Primary-filing LP commitments (61,470 records, 5,287 direct LPs) & Fund I-IV GP-LP Matchmaker.",
   "version": "3.3.0",
   "websiteUrl": "https://prilago.com/mcp",
   "repository": {
