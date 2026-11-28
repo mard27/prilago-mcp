@@ -1,6 +1,6 @@
 # Prilago — Institutional LP Intelligence & Remote MCP Server
 
-**Website:** [https://prilago.com](https://prilago.com) · **LP Directory:** [https://prilago.com/directory](https://prilago.com/directory) · **Try Fund Fit:** [https://prilago.com/demo](https://prilago.com/demo) · **MCP Docs:** [https://prilago.com/mcp](https://prilago.com/mcp) · **Pricing:** [https://prilago.com/pricing](https://prilago.com/pricing) · **GitHub:** [https://github.com/prilago](https://github.com/prilago) · **X:** [https://x.com/prilagohq](https://x.com/prilagohq)
+**Website:** [https://prilago.com](https://prilago.com) · **LP Directory:** [https://prilago.com/directory](https://prilago.com/directory) · **Try Fund Fit:** [https://prilago.com/demo](https://prilago.com/demo) · **MCP Docs:** [https://prilago.com/mcp](https://prilago.com/mcp) · **Pricing:** [https://prilago.com/pricing](https://prilago.com/pricing) · **GitHub:** [https://github.com/prilago](https://github.com/prilago) · **X:** [https://x.com/prilagohq](https://x.com/prilagohq) · **LinkedIn:** [https://www.linkedin.com/company/prilagohq](https://www.linkedin.com/company/prilagohq)
 
 **Prilago** (`https://prilago.com`, operated by **Prilago LLC**) is a primary-source US institutional Limited Partner (LP) research workspace and remote **Model Context Protocol (MCP)** server built for General Partners raising **Fund I to IV** across Venture Capital, Private Equity, Growth Equity, Private Credit, Real Estate, and Real Assets.
 
