@@ -1,6 +1,6 @@
 # Prilago — Institutional LP Intelligence & Remote MCP Server
 
-**Website:** [https://prilago.com](https://prilago.com) · **LP Directory:** [https://prilago.com/directory](https://prilago.com/directory) · **Try Fund Fit:** [https://prilago.com/demo](https://prilago.com/demo) · **MCP Docs:** [https://prilago.com/mcp](https://prilago.com/mcp) · **Pricing:** [https://prilago.com/pricing](https://prilago.com/pricing)
+**Website:** [https://prilago.com](https://prilago.com) · **LP Directory:** [https://prilago.com/directory](https://prilago.com/directory) · **Try Fund Fit:** [https://prilago.com/demo](https://prilago.com/demo) · **MCP Docs:** [https://prilago.com/mcp](https://prilago.com/mcp) · **Pricing:** [https://prilago.com/pricing](https://prilago.com/pricing) · **GitHub:** [https://github.com/prilago](https://github.com/prilago) · **X:** [https://x.com/prilagohq](https://x.com/prilagohq)
 
 **Prilago** (`https://prilago.com`, operated by **Prilago LLC**) is a primary-source US institutional Limited Partner (LP) research workspace and remote **Model Context Protocol (MCP)** server built for General Partners raising **Fund I to IV** across Venture Capital, Private Equity, Growth Equity, Private Credit, Real Estate, and Real Assets.
 
@@ -12,9 +12,9 @@
 
 Every record on [Prilago](https://prilago.com/coverage) traces to an archived public statutory filing (public pension ACFRs and board investment packets, IRS Form 990-PF foundation schedules, university endowment reports, DOL Form 5500 trusts, and SEC Form ADV Part 1A / Section 7.B.1 filings):
 
-- **5,287 Direct Institutional LPs** across 11 allocator segments (`3,595` with disclosed third-party private-market vehicles on file), tracked separately from **2,868 SEC Form ADV Advisers** (`1,492` FoF/OCIO/MFO advisers + `1,376` private-fund managers; `8,155` total filed entities)
-- **61,470 Primary Public Disclosure Records** across **44,592** private-market funds and vehicles, semantically separating original capital commitments from IRS Form 990-PF year-end carrying values and SEC Form ADV managed fund assets
-- **2,288 Manager LP Rosters** (`/gp/<slug>`) and **73 Retained Investment Consultant & OCIO Firms** (`/consultant/<slug>`)
+- **5,290 Direct Institutional LPs** across 11 allocator segments (`3,597` with disclosed third-party private-market vehicles on file), tracked separately from **2,868 SEC Form ADV Advisers** (`1,492` FoF/OCIO/MFO advisers + `1,376` private-fund managers; `8,158` total filed entities)
+- **62,814 Primary Public Disclosure Records** across **45,200** private-market funds and vehicles, semantically separating original capital commitments from IRS Form 990-PF year-end carrying values and SEC Form ADV managed fund assets
+- **2,291 Manager LP Rosters** (`/gp/<slug>`) and **73 Retained Investment Consultant & OCIO Firms** (`/consultant/<slug>`)
 - **Zero Fabricated Data & Zero Personal PII:** Prilago stores zero personal email addresses or personal phone numbers; every figure links to the underlying filing page
 - **Published Transparent Pricing:** **$500/month** flat (`GP Team Pro`, up to 5 team seats, month-to-month cancel anytime, 7-day evaluation included on approved workspace invites) — see [Pricing](https://prilago.com/pricing) and [Platform Comparisons](https://prilago.com/compare)
 
@@ -61,12 +61,12 @@ Prilago runs a hosted **Streamable-HTTP** MCP server (`2025-03-26` / `2024-11-05
 
 | Tool | Description |
 | :--- | :--- |
-| `search_lps` | Search 5,287 direct institutional LPs (Private Foundations, Public & Corporate Pensions, University Endowments, Healthcare Systems, Insurers, Institutional Trusts, and Sovereign Funds) by name, institution type, geography, strategy, or retained investment consultant. |
+| `search_lps` | Search 5,290 direct institutional LPs (Private Foundations, Public & Corporate Pensions, University Endowments, Healthcare Systems, Insurers, Institutional Trusts, and Sovereign Funds) by name, institution type, geography, strategy, or retained investment consultant. |
 | `get_lp_360_dossier` | Retrieve the complete Prilago Investor Profile for a Limited Partner: Total AUM, target vs. actual Private Equity / Credit / Real Assets allocation, disclosed pacing plan, retained consultants, named investment-team roles, filed Net IRR / TVPI / DPI figures, repeat GP relationships, and page-cited fund holdings. |
 | `match_fund_to_lps` | Find direct institutional LPs proven in primary filings to back early-series funds (Funds I to IV) from managers under $5B AUM in your strategy and check-size band, excluding existing LPs of a reference manager. |
 | `get_breaking_lp_signals` | Query Prilago's LP Filing & News Feed across SEC Form D XML filings, primary LP board/ACFR PDFs, and labeled trade-press disclosures for commitments, pacing plans, RFPs, and CIO transitions. |
 | `get_gp_peer_lookalikes` | Inspect any General Partner from verified LP disclosures: direct institutional LPs backing their funds, repeat re-up LPs, median disclosed check size, filed performance multiples, and peer GPs. |
-| `get_consultant_gatekeeper_clients` | Query Prilago's Investment Consultant & OCIO Graph to map which institutional LPs each consultant (e.g., Meketa, Aksia, StepStone, NEPC, Callan, Cambridge Associates, Verus, Aksia) advises. |
+| `get_consultant_gatekeeper_clients` | Query Prilago's Investment Consultant & OCIO Graph to map which institutional LPs each consultant (e.g., Meketa, Aksia, StepStone, NEPC, Callan, Cambridge Associates, Verus) advises. |
 
 ---
 
