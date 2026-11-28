@@ -4,14 +4,16 @@
   "id": "com.prilago/lp-intelligence",
   "provider": {
     "organization": "Prilago LLC",
-    "url": "https://prilago.com"
+    "url": "https://prilago.com",
+    "github": "https://github.com/prilago",
+    "x": "https://x.com/prilagohq"
   },
   "url": "https://prilago.com/mcp",
   "documentationUrl": "https://prilago.com/mcp",
-  "repository": "https://github.com/mard27/prilago-mcp",
+  "repository": "https://github.com/prilago/prilago-mcp",
   "llmsTxtUrl": "https://prilago.com/llms.txt",
   "mcpServerManifestUrl": "https://prilago.com/.well-known/mcp/server.json",
-  "description": "Prilago (https://prilago.com) indexes 5,287 direct institutional LPs and 61,470 primary public filing disclosures for Fund I-IV private-markets managers.",
+  "description": "Prilago (https://prilago.com) indexes 5,290 direct institutional LPs and 62,814 primary public filing disclosures for Fund I-IV private-markets managers.",
   "authentication": {
     "type": "bearer",
     "instructionsUrl": "https://prilago.com/mcp"
